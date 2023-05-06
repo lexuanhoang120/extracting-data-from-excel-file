@@ -1,5 +1,5 @@
 # extracting-data-from-excel-file
-
+Extract essential information from excel file using pandas and then processing them.
 
 ### Input
 ![image](https://user-images.githubusercontent.com/83819024/236601470-5d0cf2aa-404d-4e97-a7ff-e4ecb9e5b58e.png)
